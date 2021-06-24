@@ -29,7 +29,7 @@ Terminali açın ve aşağıdaki komutları yazın..
 
 * `apt install git`
 
-* `git clone https://github.com/d3fness/ToolKit`
+* `git clone https://github.com/d3fness/toolkit`
 
 * `cd toolkit`
 
@@ -38,7 +38,8 @@ Terminali açın ve aşağıdaki komutları yazın..
 * `chmod +x install`
 
 * `sudo sh install` Olmazsa Bu Komutu Deneyin `sudo ./install`
-
+* 
+* `yükleme tamamlandıktan sonra (Linux için) önce " sudo cd etc" sonra "sudo mv Tool-Kit toolkit" komutlarını çalıştırın`
 ------------------------------------------------------------------------
 
 ### Nasıl Kullanılır ?
@@ -52,7 +53,7 @@ Belirli bir çıktı için bir Sayı girin:
 
 <br/>
 
-ToolKit'i açmak için terminalinizin herhangi bir yerinden `Toolx` yada` toolx` yazın..
+ToolKit'i açmak için terminalinizin herhangi bir yerinden `Toolkit` yada` Tool-Kit` yazın..
 
 ------------------------------------------------------------------------
 

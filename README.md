@@ -53,7 +53,7 @@ Belirli bir çıktı için bir Sayı girin:
 
 <br/>
 
-ToolKit'i açmak için terminalinizin herhangi bir yerinden `Toolkit` yada` Tool-Kit` yazın..
+ToolKit'i açmak için terminalinizin herhangi bir yerinden `toolkit`yazın..
 
 ------------------------------------------------------------------------
 

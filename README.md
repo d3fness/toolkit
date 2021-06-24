@@ -11,7 +11,7 @@ ToolKit, Termux ve linux tabanlı sistemler için geliştirilmiştir. ToolKit'i 
 ### Sistem Gereksinimleri
 
 ToolKit aşağıdaki işletim sistemlerinden herhangi birinde çalışır:<br>
-• **Android** (Termux Programını Kullanarak) <br>
+• **Android** (Termux Programını Kullanarak (şu anlık kullanılamıyor)) <br>
 • **Linux** (Debian Tabanlı Sistemler) <br>
 • **apple ios** (uzak sunucu bağlantısı kullanarak <br>)
 

@@ -2,16 +2,16 @@
   "information_gathering" : "Bilgi Toplama",
   "vulnerability_scanner" : "Güvenlik Açığı Tarayıcı",
   "exploitation_tools" : "Exploit Yazılımları",
-  "wireless_testing" : "kablosuz internet yazılımları",
+  "wireless_testing" : "kablosuz internet (wifi) yazılımları",
   "forensics_tools" : "Forensics Toolları",
   "web_hacking" : "Web Hackleme",
   "stress_testing" : "Stres testleri",
-  "sniffing_spoofing" : "Sniffing & Spoofing",
+  "sniffing_spoofing" : "Sniffing & Spoofing (sızma ve bilgi çalma)",
   "password_attack" : "Brute Force Şifre Saldırıları",
   "maintaining_access" : "Sürekli Erişim",
   "ip_tracking" : "IP takip toolları",
   "programming_language" : "Program Dilleri",
   "ddos" : "DDOS Atak vektörleri",
   "web_server" : "Web Serverları",
-  "termux_os" : "Termux OS"
+  "termux_os" : "Termux (android) OS (pkg paketine uyarlanmış linux sistemleri)"
 }

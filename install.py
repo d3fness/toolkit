@@ -1,6 +1,6 @@
-# Tool Name :- ToolKit
-# Author :- d3fness
-# Date :- 24/06/2021
+# Yazılım İsmi :- toolkit
+# Yapımcı :- d3fness
+# Tarih :- 24/06/2021
 
 import os
 import sys

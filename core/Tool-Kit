@@ -1,6 +1,6 @@
-# Tool Name :- toolkit
-# Author :- d3fness
-# Date :- 24/06/2021
+# Yazılım İsmi :- toolkit
+# Yapımcı :- d3fness
+# Tarih :- 24/06/2021
 
 if [ -d /data/data/com.termux/files/usr/etc ]; then
   conf_dir="/data/data/com.termux/files/usr/etc"

@@ -46,7 +46,7 @@ class logo:
     print ('''
 \033[1;33m    [ + ] \033[1;32mToolKit Başarıyla Yüklendi.
 \033[1;33m    [ + ] \033[1;32mToolKit i Kullanmaya başlıyabilirsiniz =).
-\033[1;33m    [ + ] \033[1;32mToolKit i Çalıştırmak İçin Terminale ToolKit Yazın.''')
+\033[1;33m    [ + ] \033[1;32mToolKit i Çalıştırmak İçin Terminale toolKit yada Toolkit Yazın.''')
     self.tool_footer()
 
   @classmethod
@@ -87,10 +87,10 @@ class logo:
   def about(self,total):
     self.tool_header()
     print (f'''
-\033[1;33m       [+] Tool Name :- \033[1;32mToolKit
-\033[1;33m       [+] Author :- \033[1;32md3fness
-\033[1;33m       [+] Latest Update :- \033[1;32m23/3/2019.\033[1;m
-\033[1;33m       [+] Tools :- \033[1;32mtotal {total} tools.\033[1;m
+\033[1;33m       [+] Yazılım İsmi :- \033[1;32mToolKit
+\033[1;33m       [+] Kodlayıcı :- \033[1;32md3fness
+\033[1;33m       [+] Son Güncelleme :- \033[1;32m17/9/2021.\033[1;m
+\033[1;33m       [+] Toollar :- \033[1;32mtoplam {total} yazılım.\033[1;m
 
 \033[1;33m [+] \033[1;32mToolKit Bir Otomatik Yazılım Yükleyicisidir.
 \033[1;33m [+] \033[1;32mTermux Ve Linux İçin Kodlanmıştır.
